@@ -1,0 +1,7 @@
+- Upload script on the server
+- Give executable rights - `chmod +x server-stats.sh`
+- Run script - `./server-stats.sh`
+
+Project url
+
+https://roadmap.sh/projects/server-stats
