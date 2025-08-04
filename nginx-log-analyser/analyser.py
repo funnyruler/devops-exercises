@@ -4,6 +4,7 @@ import re
 import argparse
 import time
 
+
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--log_path', '-p', type=str, default='access.log')
