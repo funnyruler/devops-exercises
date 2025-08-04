@@ -1,0 +1,7 @@
+[Unit]
+Description=Dummy script
+After=network.target
+
+[Service]
+ExecStart=/bin/bash /opt/dummy/dummy.sh
+Restart=always
